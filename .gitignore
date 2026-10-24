@@ -1,0 +1,4 @@
+node_modules/
+projects/
+*.mp4
+.browser-libs/
