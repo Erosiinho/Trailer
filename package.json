@@ -2,6 +2,7 @@
   "name": "trailer",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
   "description": "Point it at an app folder, get a vertical promo video",
   "type": "module",
   "bin": {
