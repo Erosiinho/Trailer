@@ -62,3 +62,7 @@ src/render.ts       Remotion bundle and render
 src/storyboard.ts   storyboard schema (zod), shared by every step
 remotion/           the video: scenes, phone frame, timing
 ```
+
+## License
+
+[MIT](LICENSE)
